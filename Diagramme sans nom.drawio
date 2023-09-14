@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T23:31:00.361Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="o_bYZXIfq2fXhtWjxqk7" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T23:35:47.068Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="reB5eLAWvgKniHisK7KR" version="21.7.5" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="3348" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="1387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1249,7 +1249,7 @@
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-158" value="&lt;div&gt;Production&lt;/div&gt;&lt;div&gt;planification&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="2956" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CK3oIRIpM7fdsj8o6IEU-86" value="&lt;div&gt;Offer&lt;/div&gt;&lt;div&gt;+ Product&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ price&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ geolocalisation&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CK3oIRIpM7fdsj8o6IEU-86" value="&lt;div&gt;Offer&lt;/div&gt;&lt;div&gt;+ Product&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ price&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ geolocalisation&lt;/div&gt;&lt;div&gt;+ agroecological&amp;nbsp;&lt;/div&gt;&lt;div&gt;note&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="2931" width="129.49" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-160" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="CK3oIRIpM7fdsj8o6IEU-158" target="CK3oIRIpM7fdsj8o6IEU-86" parent="1">
@@ -1324,7 +1324,7 @@
           <mxGeometry x="895" y="3057" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-197" value="Cooperative administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="921.76" y="3301" width="28" height="60" as="geometry" />
+          <mxGeometry x="1347.5" y="3290" width="28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-200" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-197" target="CK3oIRIpM7fdsj8o6IEU-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1333,7 +1333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-201" value="Consolidation point value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="3167" width="80" height="70" as="geometry" />
+          <mxGeometry x="975" y="3171" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-202" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-197" target="CK3oIRIpM7fdsj8o6IEU-201">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1347,11 +1347,6 @@
             <mxPoint x="1373" y="3105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CK3oIRIpM7fdsj8o6IEU-207" value="Adding points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CK3oIRIpM7fdsj8o6IEU-206">
-          <mxGeometry x="-0.4908" y="-5" relative="1" as="geometry">
-            <mxPoint x="17" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-208" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-196" target="CK3oIRIpM7fdsj8o6IEU-138">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="943" y="3041" as="sourcePoint" />
@@ -1361,6 +1356,27 @@
         <mxCell id="CK3oIRIpM7fdsj8o6IEU-209" value="Adding points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CK3oIRIpM7fdsj8o6IEU-208">
           <mxGeometry x="-0.4908" y="-5" relative="1" as="geometry">
             <mxPoint x="17" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CK3oIRIpM7fdsj8o6IEU-210" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-93" target="CK3oIRIpM7fdsj8o6IEU-201">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="383" y="3087" as="sourcePoint" />
+            <mxPoint x="566" y="3018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CK3oIRIpM7fdsj8o6IEU-211" value="&lt;div&gt;Definition of&lt;br&gt;&lt;/div&gt;&lt;div&gt;percentage of transaction for cooperative administration&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="3141" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CK3oIRIpM7fdsj8o6IEU-212" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-197" target="CK3oIRIpM7fdsj8o6IEU-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="3323" as="sourcePoint" />
+            <mxPoint x="1028" y="3235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CK3oIRIpM7fdsj8o6IEU-213" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="CK3oIRIpM7fdsj8o6IEU-211" target="CK3oIRIpM7fdsj8o6IEU-138">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1918" y="3013" as="sourcePoint" />
+            <mxPoint x="1486" y="3107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
