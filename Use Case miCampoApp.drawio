@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T14:59:15.586Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="9nvc5MDSI-I9QDVTTPQ6" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T15:57:56.039Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="xze8Kpi0ENQYpalYjKka" version="21.7.5" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="2307" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1380,7 +1380,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ScCitZziWgp7UtbE65kX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="102.25" y="1920.5" width="517.75" height="551" as="geometry" />
+          <mxGeometry x="102.25" y="1920.5" width="637.75" height="551" as="geometry" />
         </mxCell>
         <mxCell id="ScCitZziWgp7UtbE65kX-2" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="186" y="1840" width="30" height="60" as="geometry" />
@@ -1394,23 +1394,8 @@
             <mxPoint x="161" y="2966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ScCitZziWgp7UtbE65kX-6" value="Registration of companies " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="2130" width="130" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="ScCitZziWgp7UtbE65kX-7" value="Registration of units " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2130" width="130" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ScCitZziWgp7UtbE65kX-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ScCitZziWgp7UtbE65kX-4" target="ScCitZziWgp7UtbE65kX-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="211" y="1910" as="sourcePoint" />
-            <mxPoint x="211" y="2140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ScCitZziWgp7UtbE65kX-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ScCitZziWgp7UtbE65kX-6" target="ScCitZziWgp7UtbE65kX-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="226" y="1905" as="sourcePoint" />
-            <mxPoint x="367" y="2140" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="292" y="2130" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ScCitZziWgp7UtbE65kX-10" value="Access to units" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="2236" width="130" height="65" as="geometry" />
@@ -1419,6 +1404,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="276" y="2173" as="sourcePoint" />
             <mxPoint x="302" y="2173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScCitZziWgp7UtbE65kX-13" value="Registration of funcional&amp;nbsp; units " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2130" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ScCitZziWgp7UtbE65kX-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ScCitZziWgp7UtbE65kX-13" source="ScCitZziWgp7UtbE65kX-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="2163" as="sourcePoint" />
+            <mxPoint x="515" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
