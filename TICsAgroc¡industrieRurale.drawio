@@ -151,11 +151,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-39" value="Sharing material" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-39" value="Sharing equipments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="577" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-40" value="Exchanging imputs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="614" width="120" height="23" as="geometry" />
+        <mxCell id="odxAxlYPcvehYdKYOGU6-40" value="Exchanging waste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="617" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="odxAxlYPcvehYdKYOGU6-41" value="Exchanging seeds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="657" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
