@@ -66,7 +66,7 @@
         <mxCell id="odxAxlYPcvehYdKYOGU6-14" value="Networking" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-16" value="Market access&amp;nbsp; traceability" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-16" value="Traceable" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="540" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="odxAxlYPcvehYdKYOGU6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="odxAxlYPcvehYdKYOGU6-18" target="odxAxlYPcvehYdKYOGU6-16">
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-20" value="Expensive" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-20" value="Small scale" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="odxAxlYPcvehYdKYOGU6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="odxAxlYPcvehYdKYOGU6-3" target="odxAxlYPcvehYdKYOGU6-20">
