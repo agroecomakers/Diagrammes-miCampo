@@ -80,7 +80,7 @@
         <mxCell id="odxAxlYPcvehYdKYOGU6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="odxAxlYPcvehYdKYOGU6-14" target="odxAxlYPcvehYdKYOGU6-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="odxAxlYPcvehYdKYOGU6-14" target="b57xjOK-3hPhmaoBHyEv-5" edge="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b57xjOK-3hPhmaoBHyEv-9" target="b57xjOK-3hPhmaoBHyEv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="odxAxlYPcvehYdKYOGU6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="odxAxlYPcvehYdKYOGU6-14" target="odxAxlYPcvehYdKYOGU6-41" edge="1">
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="b57xjOK-3hPhmaoBHyEv-5" value="Access to market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="510" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-9" value="Blockchain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
