@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="992" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1340" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,17 +181,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-39" value="Sharing equipments" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-39" value="Sharing equipments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" parent="1" vertex="1">
           <mxGeometry x="680" y="593" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-40" value="Exchanging waste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-40" value="Exchanging waste" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" parent="1" vertex="1">
           <mxGeometry x="680" y="628.5" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-41" value="Exchanging seeds" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-41" value="Exchanging seeds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" parent="1" vertex="1">
           <mxGeometry x="680" y="667" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-42" value="Designing territories" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="704" width="120" height="23" as="geometry" />
+        <mxCell id="odxAxlYPcvehYdKYOGU6-42" value="Designing territories" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" parent="1" vertex="1">
+          <mxGeometry x="680" y="714" width="120" height="23" as="geometry" />
         </mxCell>
         <mxCell id="odxAxlYPcvehYdKYOGU6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="odxAxlYPcvehYdKYOGU6-14" target="odxAxlYPcvehYdKYOGU6-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +204,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odxAxlYPcvehYdKYOGU6-47" value="Sharing information on technologies" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="odxAxlYPcvehYdKYOGU6-47" value="Sharing information on technologies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" parent="1" vertex="1">
           <mxGeometry x="680" y="547" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="odxAxlYPcvehYdKYOGU6-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="odxAxlYPcvehYdKYOGU6-14" target="odxAxlYPcvehYdKYOGU6-40" edge="1">
@@ -217,8 +217,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b57xjOK-3hPhmaoBHyEv-1" target="b57xjOK-3hPhmaoBHyEv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b57xjOK-3hPhmaoBHyEv-1" value="Modelling machine learning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="690" y="814" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="814" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b57xjOK-3hPhmaoBHyEv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="odxAxlYPcvehYdKYOGU6-5" target="b57xjOK-3hPhmaoBHyEv-1">
           <mxGeometry relative="1" as="geometry">
@@ -226,14 +229,20 @@
             <mxPoint x="700" y="844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b57xjOK-3hPhmaoBHyEv-5" value="Access to market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-5" value="Access to market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" vertex="1" parent="1">
           <mxGeometry x="680" y="510" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b57xjOK-3hPhmaoBHyEv-9" value="Blockchain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="498" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b57xjOK-3hPhmaoBHyEv-11" value="New services" style="rounded;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="467" width="120" height="20" as="geometry" />
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-14" value="Optimization Production access to market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF6FF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="754" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-15" value="New services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="467" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-16" value="New technologies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
