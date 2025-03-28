@@ -232,6 +232,9 @@
         <mxCell id="b57xjOK-3hPhmaoBHyEv-9" value="Blockchain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="498" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="b57xjOK-3hPhmaoBHyEv-11" value="New services" style="rounded;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="467" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
