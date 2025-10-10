@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>miCampoApp - Cooperativa Digital Agroecológica</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-b from-white to-green-50 text-gray-800">
+  <header class="max-w-6xl mx-auto p-6 flex items-center justify-between">
+    <div class="flex items-center gap-4">
+      <img src="spg.svg" alt="Logo MiCampo" class="h-12 w-12">
+      <div>
+        <h1 class="text-2xl font-bold">miCampoApp</h1>
+        <p class="text-sm text-gray-600">Cooperativa Digital Agroecológica</p>
+      </div>
+    </div>
+    <div class="flex items-center gap-3">
+      <a href="#roles" class="bg-green-600 text-white px-4 py-2 rounded shadow">Saber más</a>
+      <a href="#aplicacion" class="bg-white border px-4 py-2 rounded shadow">Aplicación</a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-6 grid gap-10">
+    <section class="bg-white p-6 rounded shadow">
+      <h2 class="text-xl font-bold mb-2">Arquitectura del Sistema</h2>
+      <p class="text-gray-700">Cinco niveles de interacción entre productores, clientes, transportadores, administradores de cooperativa e investigadores.</p>
+    </section>
+
+    <section id="roles" class="bg-white p-6 rounded shadow">
+      <h3 class="text-xl font-bold mb-2">Roles principales</h3>
+      <ul class="list-disc list-inside text-gray-700">
+        <li>Productor: planifica, produce y certifica.</li>
+        <li>Cliente: establece contratos anticipados.</li>
+        <li>Transportador: coordina la logística territorial.</li>
+        <li>Administrador de cooperativa: gestiona la gobernanza y los pagos.</li>
+        <li>Investigador: genera indicadores y conocimiento.</li>
+      </ul>
+    </section>
+
+    <section id="aplicacion" class="bg-white p-6 rounded shadow">
+      <h3 class="text-xl font-bold mb-4">Apps & Acceso</h3>
+      <div class="flex flex-wrap gap-3">
+        <a href="https://webmaster.agromakers.org/login" class="px-4 py-2 bg-green-600 text-white rounded">Webmaster App</a>
+        <a href="https://app.agromakers.org/login" class="px-4 py-2 border rounded">Usuario Web App</a>
+        <a href="https://webmaster.agromakers.org/micampo.apk" class="px-4 py-2 border rounded">Descargar APK (Android)</a>
+        <a href="https://app.agromakers.org" class="px-4 py-2 border rounded">Instalar en iPhone (PWA)</a>
+      </div>
+      <p class="text-xs text-gray-500 mt-2">Para iPhone: abre este enlace en Safari → Compartir → “Agregar a pantalla de inicio”.</p>
+    </section>
+  </main>
+
+  <footer class="text-center py-6 text-sm text-gray-600">
+    MiCampo — Co-creación, planificación, garantía participativa y distribución cooperativa.
+  </footer>
+</body>
+</html>
