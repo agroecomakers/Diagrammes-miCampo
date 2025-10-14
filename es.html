@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>miCampoApp - Cooperativa Digital Agroecológica</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-b from-white to-green-50 text-gray-800">
+  <header class="max-w-6xl mx-auto p-6 flex items-center justify-between">
+    <div class="flex items-center gap-4">
+      <img src="logo.svg" alt="Logo MiCampo" class="h-12 w-12">
+      <div>
+        <h1 class="text-2xl font-bold">miCampoApp</h1>
+        <p class="text-sm text-gray-600">Cooperativa Digital Agroecológica</p>
+      </div>
+    </div>
+    <div class="flex items-center gap-3">
+      <a href="#roles" class="bg-green-600 text-white px-4 py-2 rounded shadow">Saber más</a>
+      <a href="#aplicacion" class="bg-white border px-4 py-2 rounded shadow">Aplicación</a>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-6 grid gap-10">
+    <section class="bg-white p-6 rounded shadow">
+      <h2 class="text-xl font-bold mb-2">Arquitectura del Sistema</h2>
+      <p class="text-gray-700">Cinco niveles de interacción entre productores, clientes, transportadores, administradores de cooperativa e investigadores.</p>
+    </section>
+
+    <section id="roles" class="bg-white p-6 rounded shadow">
+      <h3 class="text-xl font-bold mb-2">Roles principales (clic para saber mas)</h3>
+      <ul class="list-disc list-inside text-gray-700">
+        <li><a href="#productor" class="text-green-600 hover:underline font-medium">Productor</a>: planifica, produce y certifica.</li>
+        <li><a href="#cliente" class="text-green-600 hover:underline font-medium">Cliente</a>: establece contratos anticipados.</li>
+        <li><a href="#transportador" class="text-green-600 hover:underline font-medium">Transportador</a>: coordina la logística territorial.</li>
+        <li><a href="#administrador-coop" class="text-green-600 hover:underline font-medium">Administrador de cooperativa</a>: gestiona la gobernanza y los pagos.</li>
+        <li><a href="#investigador" class="text-green-600 hover:underline font-medium">Investigador</a>: genera indicadores y conocimiento.</li>
+      </ul>
+    </section>
+
+    <section id="aplicacion" class="bg-white p-6 rounded shadow">
+      <h3 class="text-xl font-bold mb-4">Apps & Acceso</h3>
+      <div class="flex flex-wrap gap-3">
+        <a href="https://webmaster.agromakers.org/login" class="px-4 py-2 bg-green-600 text-white rounded">Webmaster App</a>
+        <a href="https://app.agromakers.org/login" class="px-4 py-2 border rounded">Usuario Web App</a>
+        <a href="https://webmaster.agromakers.org/micampo.apk" class="px-4 py-2 border rounded">Descargar APK (Android)</a>
+        <a href="https://app.agromakers.org" class="px-4 py-2 border rounded">Instalar en iPhone (PWA)</a>
+      </div>
+      <p class="text-xs text-gray-500 mt-2">Para iPhone: abre este enlace en Safari → Compartir → “Agregar a pantalla de inicio”.</p>
+    </section>
+    
+    <div class="grid gap-6">
+
+<section id="productor" class="bg-white p-6 rounded shadow border-l-4 border-green-500">
+    <div class="flex items-center mb-4 gap-4">
+        <img src="Campesino.svg" alt="Ícono Productor Campesino" class="h-16 w-16 text-green-700"/>
+        <h3 class="text-2xl font-bold text-green-700">Rol 1: Productor</h3>
+    </div>
+    <p class="text-gray-700 mb-4">
+        Eres campesino o empresario en agroindustria rural. Podrás:
+    </p>
+    
+    <ul class="text-gray-800 space-y-1 mt-3 list-none">
+        <li class="flex items-center gap-2">
+            <svg class="h-16 w-16 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+            <a href="#organizar-trabajo" class="text-blue-600 hover:underline">Organizar el trabajo en agendas interactivas</a>
+        </li>
+        <li class="flex items-center gap-2">
+            <svg class="h-16 w-16 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+            <a href="#planificar-oferta" class="text-blue-600 hover:underline">Planificar tu oferta para realizar contratos anticipados</a>
+        </li>
+        <li class="flex items-center gap-2">
+            <svg class="h-16 w-16 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+            <a href="#certificarse" class="text-blue-600 hover:underline">Certificarse y participar en la investigación</a>
+        </li>
+    </ul>
+</section>
+
+
+    <section id="cliente" class="bg-white p-6 rounded shadow border-l-4 border-green-500">
+        <h3 class="text-2xl font-bold mb-2 text-green-700">Rol 2: Cliente</h3>
+        <p class="text-gray-700">Détails sur la manière dont les clients peuvent établir des contrats d'achat anticipés, garantissant la production future.</p>
+    </section>
+
+    <section id="transportador" class="bg-white p-6 rounded shadow border-l-4 border-green-500">
+        <h3 class="text-2xl font-bold mb-2 text-green-700">Rol 3: Transportador</h3>
+        <p class="text-gray-700">Détails sur le rôle de coordination logistique, l'optimisation des itinéraires territoriaux et le suivi des commandes.</p>
+    </section>
+
+    <section id="administrador-coop" class="bg-white p-6 rounded shadow border-l-4 border-green-500">
+        <h3 class="text-2xl font-bold mb-2 text-green-700">Rol 4: Administrador de cooperativa</h3>
+        <p class="text-gray-700">Détails sur la gestion de la gouvernance coopérative, la transparence des transactions et le traitement des paiements.</p>
+    </section>
+
+    <section id="investigador" class="bg-white p-6 rounded shadow border-l-4 border-green-500">
+        <h3 class="text-2xl font-bold mb-2 text-green-700">Rol 5: Investigador</h3>
+        <p class="text-gray-700">Détails sur la génération d'indicateurs de durabilité, le partage de connaissances et l'aide à la prise de décision pour la coopérative.</p>
+    </section>
+
+
+<section id="organizar-trabajo" class="bg-white p-6 rounded shadow border-l-4 border-blue-500">
+    <h4 class="text-xl font-bold mb-3 text-blue-700">Organizar tu trabajo</h4>
+    <p class="text-gray-700 font-semibold mb-2">Objetivo: Reducir sus costos de producción y su tiempo laboral en la producción de alimentos ecológicos.</p>
+    
+    <p class="text-gray-700 mt-4">¿Cómo se hace?</p>
+    
+    <ul class="list-none space-y-3 mt-3">
+        <li class="flex items-start gap-3">
+            <img src="workshop.svg" alt="Ícono Taller" class="h-16 w-16 mt-1"/>
+            <p>La maneras más efectivas de producir se identifican entre los científicos y los agricultores en cooperativas. Se crean a partir de los talleres **“itinerarios técnicos”**: una serie de actividades y observaciones.</p>
+        </li>
+        <li class="flex items-start gap-3">
+            <img src="webmaster.svg" alt="Ícono Webmaster" class="h-16 w-16 mt-1"/>
+            <p>Los itinerarios aparecen en una **agenda interactiva** en su móvil.</p>
+        </li>
+        <li class="flex items-start gap-3">
+            <img src="agenda.svg" alt="Ícono Agenda" class="h-16 w-16 mt-1"/>
+            <p>Puede así organizar su trabajo, producir sus propios insumos, actuar en caso de eventos y planificar su oferta.</p>
+        </li>
+    </ul>
+</section>
+
+<section id="planificar-oferta" class="bg-white p-6 rounded shadow border-l-4 border-blue-500">
+    <h4 class="text-xl font-bold mb-3 text-blue-700">Planificar tu oferta para contratos anticipados</h4>
+    <p class="text-gray-700 font-semibold mb-2">Objetivo: Asegurar la venta de su producción antes de cosechar, garantizando precios justos y estables.</p>
+    
+    <ul class="list-none space-y-3 mt-3">
+        <li class="flex items-start gap-3">
+            <img src="productor_c.svg" alt="Ícono Productor con Cliente" class="h-16 w-16 mt-1"/>
+            <p>Utilice la aplicación para pre-vender sus productos a clientes, restaurantes o comedores institucionales. Esto minimiza el riesgo de excedentes.</p>
+        </li>
+        <li class="flex items-start gap-3">
+            <img src="spg.svg" alt="Ícono SPG" class="h-16 w-16 mt-1"/>
+            <p>El precio justo se establece en base a los costos reales de producción ecológica y los acuerdos dentro de la cooperativa, evitando intermediarios.</p>
+        </li>
+    </ul>
+</section>
+
+<section id="certificarse" class="bg-white p-6 rounded shadow border-l-4 border-blue-500">
+    <h4 class="text-xl font-bold mb-3 text-blue-700">Certificarse y participar en la investigación</h4>
+    <p class="text-gray-700 font-semibold mb-2">Objetivo: Validar la calidad ecológica de la producción y contribuir al desarrollo de conocimiento de la comunidad.</p>
+    
+    <ul class="list-none space-y-3 mt-3">
+        <li class="flex items-start gap-3">
+            <img src="Investigador.svg" alt="Ícono Investigador" class="h-16 w-16 mt-1"/>
+            <p>Participe en la investigación con académicos. Sus observaciones de campo son datos clave para generar indicadores de bienestar social y ambiental.</p>
+        </li>
+        <li class="flex items-start gap-3">
+            <img src="Cliente.svg" alt="Ícono Cliente" class="h-16 w-16 mt-1"/>
+            <p>La **Certificación Participativa (SPG)** se basa en la confianza mutua y la transparencia de las prácticas, apoyada por la App.</p>
+        </li>
+    </ul>
+</section>
+
+</div>
+  </main>
+
+  <footer class="text-center py-6 text-sm text-gray-600">
+    MiCampo — Co-creación, planificación, garantía participativa y distribución cooperativa.
+  </footer>
+</body>
+</html>
