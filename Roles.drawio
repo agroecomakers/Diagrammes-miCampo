@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
   <diagram name="Page-1" id="y7BAFTMVYeXrSPOnEI7G">
-    <mxGraphModel dx="1718" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,13 +332,13 @@
             <mxPoint x="425" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Responsable cooperative" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Responsable cooperativa" vertex="1">
           <mxGeometry height="60" width="120" x="555" y="1002" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-46" edge="1" parent="1" source="oBDvwugpG8YK8QNGx23Z-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="oBDvwugpG8YK8QNGx23Z-56" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-47" connectable="0" parent="oBDvwugpG8YK8QNGx23Z-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="&lt;div&gt;Arbitre les événements&amp;nbsp;&lt;/div&gt;&lt;div&gt;sur les contrats&lt;/div&gt;" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-47" connectable="0" parent="oBDvwugpG8YK8QNGx23Z-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="&lt;div&gt;Arbitra los eventos&amp;nbsp;&lt;/div&gt;&lt;div&gt;en los contrats&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0238" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -407,7 +407,7 @@
             <mxPoint x="505" y="1347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Conducteur" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Conductor" vertex="1">
           <mxGeometry height="60" width="120" x="555" y="1422" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-63" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Roles responsable UP" vertex="1">
@@ -500,7 +500,7 @@
             <mxPoint x="195" y="1044.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-92" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Rôles responsable UC" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-92" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Roles responsable UC" vertex="1">
           <mxGeometry height="170" width="140" x="701" y="1167" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-93" parent="oBDvwugpG8YK8QNGx23Z-92" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Asigna rol responsable UC a empleado" vertex="1">
@@ -580,7 +580,7 @@
         <mxCell id="oBDvwugpG8YK8QNGx23Z-109" parent="oBDvwugpG8YK8QNGx23Z-108" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Accede a estadisticas de contratos&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="139" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-110" parent="oBDvwugpG8YK8QNGx23Z-108" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="arbitra los eventos en contratos" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-110" parent="oBDvwugpG8YK8QNGx23Z-108" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Arbitra los eventos en contratos" vertex="1">
           <mxGeometry height="50" width="139" y="70" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-111" parent="oBDvwugpG8YK8QNGx23Z-108" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Erradica clientes" vertex="1">
