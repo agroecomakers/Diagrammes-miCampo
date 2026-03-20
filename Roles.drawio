@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
   <diagram name="Page-1" id="y7BAFTMVYeXrSPOnEI7G">
-    <mxGraphModel dx="4092" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2764" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
             <mxPoint x="505" y="527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgkuEUFNtJ4GMXU52_r--12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Conducteur" vertex="1">
+        <mxCell id="SgkuEUFNtJ4GMXU52_r--12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Le conducteur &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;est un réceptioniste&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="555" y="602" as="geometry" />
         </mxCell>
         <mxCell id="SgkuEUFNtJ4GMXU52_r--19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Roles responsable UP" vertex="1">
@@ -170,7 +170,7 @@
         <mxCell id="SgkuEUFNtJ4GMXU52_r--74" parent="SgkuEUFNtJ4GMXU52_r--32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Signe contrat" vertex="1">
           <mxGeometry height="30" width="140" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="SgkuEUFNtJ4GMXU52_r--38" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rôles conducteur / &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;réceptioniste&lt;/span&gt; &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;UL&lt;/span&gt;" vertex="1">
+        <mxCell id="SgkuEUFNtJ4GMXU52_r--38" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rôles conducteur ou&amp;nbsp;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;réceptioniste&lt;/span&gt; &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;UL&lt;/span&gt;" vertex="1">
           <mxGeometry height="150" width="140" x="384" y="587" as="geometry" />
         </mxCell>
         <mxCell id="SgkuEUFNtJ4GMXU52_r--41" parent="SgkuEUFNtJ4GMXU52_r--38" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Valide/infirme conformité, reception livraison" vertex="1">
@@ -410,7 +410,7 @@
             <mxPoint x="-654" y="532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Conductor" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="El conductor &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;es un receptionista&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-604" y="607" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-63" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Roles responsable UP" vertex="1">
@@ -467,7 +467,7 @@
         <mxCell id="oBDvwugpG8YK8QNGx23Z-80" parent="oBDvwugpG8YK8QNGx23Z-75" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Firma contrato" vertex="1">
           <mxGeometry height="30" width="140" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-81" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rol conductor/ &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;receptionista&lt;/span&gt; &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;UL&lt;/span&gt;" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-81" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rol conductor o&amp;nbsp;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;receptionista&lt;/span&gt; &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;UL&lt;/span&gt;" vertex="1">
           <mxGeometry height="140" width="140" x="-775" y="591" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-82" parent="oBDvwugpG8YK8QNGx23Z-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Valida/invalida conformidad, recepción entrega" vertex="1">
@@ -536,7 +536,7 @@
         <mxCell id="oBDvwugpG8YK8QNGx23Z-100" parent="1" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Receptionista&lt;/span&gt; cliente" vertex="1">
           <mxGeometry height="60" width="120" x="-288" y="607" as="geometry" />
         </mxCell>
-        <mxCell id="oBDvwugpG8YK8QNGx23Z-101" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rol &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;receptionista&lt;/span&gt; cliente" vertex="1">
+        <mxCell id="oBDvwugpG8YK8QNGx23Z-101" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Rol &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;receptionista&lt;/span&gt;&amp;nbsp;UC" vertex="1">
           <mxGeometry height="130" width="140" x="-459" y="592" as="geometry" />
         </mxCell>
         <mxCell id="oBDvwugpG8YK8QNGx23Z-115" parent="oBDvwugpG8YK8QNGx23Z-101" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Valida/invalida conformidad, recepción&amp;nbsp;" vertex="1">
