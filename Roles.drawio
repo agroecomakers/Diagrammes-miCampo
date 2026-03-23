@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
   <diagram name="Page-1" id="y7BAFTMVYeXrSPOnEI7G">
-    <mxGraphModel dx="1848" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,16 +1000,25 @@
           <mxGeometry height="51" width="140" x="-771" y="1394" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--124" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Roles responsable cooperativa (apk)" vertex="1">
-          <mxGeometry height="140" width="140" x="-771" y="930" as="geometry" />
+          <mxGeometry height="260" width="140" x="-771" y="868" as="geometry" />
         </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--125" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Autorisa UP" vertex="1">
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--125" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Autorisa UP, UL" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--126" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Define reglas contrats" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--149" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;Accede a estadisticas de contratos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--151" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Erradica usuario" vertex="1">
+          <mxGeometry height="30" width="140" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--150" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Arbitra los eventos en contratos" vertex="1">
+          <mxGeometry height="50" width="140" y="160" as="geometry" />
+        </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--127" parent="eVq3LJd2F6pX6zOBXiR--124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;Consulta ciclos, encuestas, certificaciones&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="140" y="90" as="geometry" />
+          <mxGeometry height="50" width="140" y="210" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--128" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Roles admin (webmaster)" vertex="1">
           <mxGeometry height="120" width="140" x="-1100" y="873" as="geometry" />
@@ -1021,19 +1030,22 @@
           <mxGeometry height="40" width="140" y="80" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--132" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;div&gt;Usuario / Cliente&lt;/div&gt;&lt;div&gt;Rol responsable UC&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="140" x="-440" y="1100" as="geometry" />
+          <mxGeometry height="200" width="140" x="-440" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--133" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Asigna rol responsable UC a empleado" vertex="1">
           <mxGeometry height="50" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--134" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Ordena" vertex="1">
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--165" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Ordena" vertex="1">
           <mxGeometry height="30" width="140" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--135" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Firma contrato" vertex="1">
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--134" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Ordena" vertex="1">
           <mxGeometry height="30" width="140" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--136" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Paga" vertex="1">
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--135" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Firma contrato" vertex="1">
           <mxGeometry height="30" width="140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--136" parent="eVq3LJd2F6pX6zOBXiR--132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Paga" vertex="1">
+          <mxGeometry height="30" width="140" y="170" as="geometry" />
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--139" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.251;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1049,26 +1061,6 @@
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--143" parent="eVq3LJd2F6pX6zOBXiR--141" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Declara imprevisto afectando orden" vertex="1">
           <mxGeometry height="50" width="140" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--148" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Roles responsable cooperativa" vertex="1">
-          <mxGeometry height="150" width="139" x="-430" y="893" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--149" parent="eVq3LJd2F6pX6zOBXiR--148" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;Accede a estadisticas de contratos&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="139" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--150" parent="eVq3LJd2F6pX6zOBXiR--148" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Arbitra los eventos en contratos" vertex="1">
-          <mxGeometry height="50" width="139" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--151" parent="eVq3LJd2F6pX6zOBXiR--148" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" value="Erradica clientes" vertex="1">
-          <mxGeometry height="30" width="139" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--86" edge="1" parent="eVq3LJd2F6pX6zOBXiR--148" source="eVq3LJd2F6pX6zOBXiR--148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;entryX=0.018;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" target="eVq3LJd2F6pX6zOBXiR--150" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eVq3LJd2F6pX6zOBXiR--87" connectable="0" parent="eVq3LJd2F6pX6zOBXiR--86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;Arbitra los eventos&amp;nbsp;&lt;/div&gt;&lt;div&gt;en los contrats&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.0238" y="-2" as="geometry">
-            <mxPoint x="2" y="-38" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;labelBackgroundColor=none;fontColor=#143642;" value="&lt;div&gt;&lt;div&gt;UP : unidad de producción&lt;/div&gt;UL : unidad de logística,&amp;nbsp;&lt;div&gt;UC : unidad de compra&lt;/div&gt;transporte y/o acopio&lt;/div&gt;&lt;div&gt;UF : unidad funcional&lt;/div&gt;&lt;div&gt;&lt;div&gt;IT : itinerario técnico&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="93.75" width="170" x="-206" y="869.25" as="geometry" />
