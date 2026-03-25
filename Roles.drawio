@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.4">
   <diagram name="Page-1" id="y7BAFTMVYeXrSPOnEI7G">
-    <mxGraphModel dx="1976" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2783" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1053,6 +1053,39 @@
         </mxCell>
         <mxCell id="eVq3LJd2F6pX6zOBXiR--227" edge="1" parent="1" source="eVq3LJd2F6pX6zOBXiR--205" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="eVq3LJd2F6pX6zOBXiR--205">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--229" edge="1" parent="1" source="eVq3LJd2F6pX6zOBXiR--34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="eVq3LJd2F6pX6zOBXiR--205" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="1800" as="sourcePoint" />
+            <mxPoint x="-320" y="1826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--230" connectable="0" parent="eVq3LJd2F6pX6zOBXiR--229" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Es un" vertex="1">
+          <mxGeometry relative="1" x="-0.241" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--233" edge="1" parent="1" source="eVq3LJd2F6pX6zOBXiR--184" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eVq3LJd2F6pX6zOBXiR--205" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="1870" as="sourcePoint" />
+            <mxPoint x="-209" y="1928" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--234" connectable="0" parent="eVq3LJd2F6pX6zOBXiR--233" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Es un" vertex="1">
+          <mxGeometry relative="1" x="-0.241" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--235" edge="1" parent="1" source="eVq3LJd2F6pX6zOBXiR--65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="eVq3LJd2F6pX6zOBXiR--205" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="1860" as="sourcePoint" />
+            <mxPoint x="1" y="1918" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eVq3LJd2F6pX6zOBXiR--236" connectable="0" parent="eVq3LJd2F6pX6zOBXiR--235" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Es un" vertex="1">
+          <mxGeometry relative="1" x="-0.241" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
